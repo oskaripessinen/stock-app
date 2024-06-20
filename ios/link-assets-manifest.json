@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Nothing Font.ttf",
+      "sha1": "27975513365450532b8de42a50da095640d4468a"
+    },
+    {
+      "path": "assets/fonts/Noto Sans Mono Thin.ttf",
+      "sha1": "b5171e4ecc4277d5ca0d6746592cb65cc3ec0fef"
+    }
+  ]
+}
